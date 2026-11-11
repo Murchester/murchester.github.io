@@ -8,7 +8,7 @@ This is my first post. Markdown works as you would expect: *italics*, **bold**, 
 
 ## Inline math
 
-Write it as $e^{i\pi} + 1 = 0$ or in the \LaTeX style \(\sum_{k=1}^{n} k = \tfrac{n(n+1)}{2}\). Roots work too: $\sqrt{2}$ and \(\sqrt[3]{x+1}\). Money like $5 and $6 stays plain text, and \$x\$ is a literal dollar sign.
+Write it as $e^{i\pi} + 1 = 0$ or in the LaTeX style \(\sum_{k=1}^{n} k = \tfrac{n(n+1)}{2}\). Roots work too: $\sqrt{2}$ and \(\sqrt[3]{x+1}\). Money like $5 and $6 stays plain text, and \$x\$ is a literal dollar sign.
 
 ## Display math
 
@@ -16,7 +16,7 @@ With double dollars:
 
 $$\int_{-\infty}^{\infty} e^{-x^2}\,dx = \sqrt{\pi}$$
 
-With \LaTeX brackets, across several lines:
+With LaTeX brackets, across several lines:
 
 \[
 \zeta(s) = \sum_{n=1}^{\infty} \frac{1}{n^s}
