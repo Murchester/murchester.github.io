@@ -32,7 +32,10 @@ And with environments:
 
 ## Everything else
 
-![Here's an image of my favourite album.](/img/dis.jpg)
+<figure>
+  <img src="/img/dis.jpg" alt="Discipline">
+  <figcaption>Here's an image of my favourite album.</figcaption>
+</figure>
 
 Footnotes work too.[^1]
 
