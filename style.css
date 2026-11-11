@@ -49,6 +49,9 @@ hr{margin:1.6em 0;border:0;border-top:2px groove #999}
 blockquote{padding:.3em 18px;background:#f0f0d8;border-left:6px double var(--lo)}
 blockquote>:last-child{margin-bottom:0}
 img{max-width:100%;height:auto}
+figcaption {
+    text-align: center;
+}
 .meta{margin-top:-.4em;color:#555;font:italic 14px var(--serif)}
 .crumbs{margin:10px 0 0;color:#555;font:12px var(--sans);hyphens:none}
 .pn{display:flex;justify-content:space-between;gap:1em;font:14px var(--sans)}.pn span:last-child{text-align:right}
