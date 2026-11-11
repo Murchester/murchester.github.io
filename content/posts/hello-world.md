@@ -24,7 +24,7 @@ With LaTeX brackets, across several lines:
 \]
 
 \begin{align}
-I =\int x \, dx \\
+I &=\int x \, dx \\
  &=\frac{x^2}{2} \\
 I_i &=\frac{x^2}{2}+C
 \end{align}
