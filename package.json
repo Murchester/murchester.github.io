@@ -1,0 +1,16 @@
+{
+  "name": "my-homepage",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node dev.mjs",
+    "new": "node new.mjs",
+    "release": "node build.mjs --compress"
+  },
+  "dependencies": {
+    "katex": "^0.16.11",
+    "markdown-it": "^14.1.0",
+    "markdown-it-footnote": "^4.0.0"
+  }
+}
