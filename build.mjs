@@ -8,7 +8,7 @@ import footnote from 'markdown-it-footnote';
 import zlib from 'node:zlib';
 
 const SITE = {
-  title: '~yourname',
+  title: 'Murchester',
   tagline: 'Welcome to my homepage! Best viewed with any browser.',
 };
 
