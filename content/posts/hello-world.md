@@ -4,11 +4,11 @@ date: 2026-11-10
 tags: meta, math
 toc: true
 ---
-This is my first post. Markdown works as you'd expect: *italics*, **bold**, [links](https://example.com), lists, and tables.
+This is my first post. Markdown works as you would expect: *italics*, **bold**, [links](https://youtu.be/dQw4w9WgXcQ?si=58pFATy9Xr_-VS16), lists, and tables.
 
 ## Inline math
 
-Write it as $e^{i\pi} + 1 = 0$ or in the LaTeX style \(\sum_{k=1}^{n} k = \tfrac{n(n+1)}{2}\). Roots work too: $\sqrt{2}$ and \(\sqrt[3]{x+1}\). Money like $5 and $6 stays plain text, and \$x\$ is a literal dollar sign.
+Write it as $e^{i\pi} + 1 = 0$ or in the \LaTeX style \(\sum_{k=1}^{n} k = \tfrac{n(n+1)}{2}\). Roots work too: $\sqrt{2}$ and \(\sqrt[3]{x+1}\). Money like $5 and $6 stays plain text, and \$x\$ is a literal dollar sign.
 
 ## Display math
 
@@ -16,18 +16,12 @@ With double dollars:
 
 $$\int_{-\infty}^{\infty} e^{-x^2}\,dx = \sqrt{\pi}$$
 
-With LaTeX brackets, across several lines:
+With \LaTeX brackets, across several lines:
 
 \[
 \zeta(s) = \sum_{n=1}^{\infty} \frac{1}{n^s}
         = \prod_{p\ \text{prime}} \frac{1}{1 - p^{-s}}
 \]
-
-\begin{align}
-I &=\int x \, dx \\
- &=\frac{x^2}{2} \\
-I_i &=\frac{x^2}{2}+C
-\end{align}
 
 And with environments:
 
@@ -40,7 +34,7 @@ And with environments:
 
 Footnotes work too.[^1]
 
-> Blockquotes look like a proper 90s guestbook entry.
+> Blockquotes look like a 90s guestbook entry.
 
 ```js
 console.log("code blocks work too, and $dollars$ in code stay untouched");
