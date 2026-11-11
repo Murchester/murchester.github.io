@@ -32,7 +32,16 @@ And with environments:
 
 ## Everything else
 
+
+
+
+
 ![Here's an image of my favourite album.](/img/dis.jpg)
+
+
+
+
+
 
 Footnotes work too.[^1]
 
