@@ -32,6 +32,8 @@ And with environments:
 
 ## Everything else
 
+![Here's an image of my favourite album.](/img/photo.png)
+
 Footnotes work too.[^1]
 
 > Blockquotes look like a 90s guestbook entry.
