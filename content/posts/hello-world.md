@@ -4,7 +4,7 @@ date: 2026-11-10
 tags: meta, math
 toc: true
 ---
-This is my first post. Markdown works as you would expect: *italics*, **bold**, [links](https://youtu.be/dQw4w9WgXcQ?si=58pFATy9Xr_-VS16), lists, and tables.
+This is my first post. Markdown works as you'd expect: *italics*, **bold**, [links](https://example.com), lists, and tables.
 
 ## Inline math
 
@@ -32,14 +32,9 @@ And with environments:
 
 ## Everything else
 
-<figure>
-  <img src="/img/dis.jpg" alt="Discipline">
-  <figcaption>Here's an image of my favourite album.</figcaption>
-</figure>
-
 Footnotes work too.[^1]
 
-> Blockquotes look like a 90s guestbook entry.
+> Blockquotes look like a proper 90s guestbook entry.
 
 ```js
 console.log("code blocks work too, and $dollars$ in code stay untouched");
